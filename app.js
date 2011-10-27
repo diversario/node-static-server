@@ -11,13 +11,13 @@ var app = module.exports = express.createServer();
 
 app.configure(function(){
   app.use(express.bodyParser());
+//  app.use(express.logger('dev'))
   app.use(express.methodOverride());
   app.use(function(req, res, next){
     var id = /^\/(\d+)\//.exec(req.url) || null;
     if(id){
       if(id[1] == null) id[1] = 0;
       req.url = req.url.slice(id[1].length+1);
-      //if (req.url.slice(req.url.length-1) !== '/') req.url += '/';
     }
     next();
   })
@@ -34,11 +34,17 @@ app.configure('production', function(){
 });
 
 // Routes
-/*
-app.get('/:id', function(req, res){
-  req.url = req.url.slice(req.params.id.length + 1);
-  res.end(index);
+
+app.get('/:id', function(req, res, next){
+  var id = req.params.id;
+  
+  if (/^\d+$/.test(id)){
+    req.url += '/';
+    res.redirect(req.url);
+  } else {
+    next();
+  }
 });
-*/
-app.listen(3000);
+
+app.listen(80, '192.168.0.110');
 console.log("Express server listening on port %d in %s mode", app.address().port, app.settings.env);
