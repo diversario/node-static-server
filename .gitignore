@@ -1,3 +1,6 @@
 nohup.out
 server/node_modules
 client/assets/css/*.css
+.DS*
+._*
+.idea
