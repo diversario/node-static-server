@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-static-server",
+  "description": "NodeJS static server with Jade and LESS support",
+  "version": "0.0.2",
+  "dependencies": {
+    "express": "2.x",
+    "express-messages": "x",
+    "colors": "0.x",
+    "jade": "0.20.x",
+    "q": "x",
+    "request": "x",
+    "connect-gzip": "x",
+    "less": "git://github.com/signedon/less.js.git",
+  }
+}
