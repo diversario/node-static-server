@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3174ddee-00c4-4b5a-a17f-972f0afa23f5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/node-static-server.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/assets/css/style.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/express.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/https.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/response.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/router/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/view/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/connect.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/https.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/basicAuth.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/csrf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/directory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/errorHandler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/favicon.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/session.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/session/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/session/memory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/session/session.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/session/store.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/static.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/staticCache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mime/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/jade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/jade.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/compiler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/jade.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/block-comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/block.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/code.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/comment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/doctype.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/each.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/literal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/mixin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/tag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/package.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/http.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/https.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/request.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/lib/view/view.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/connect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/https.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/basicAuth.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/cookieParser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/csrf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/directory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/errorHandler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/favicon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/router.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/session.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/session/cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/session/memory.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/session/session.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/session/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/static.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/staticCache.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mime/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/support/should/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/support/should/lib/should.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/examples/csrf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/examples/dynamicscript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/examples/layout-debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/examples/model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/examples/nested-filters.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/jade.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/jade.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/compiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/jade.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/block-comment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/block.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/code.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/comment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/doctype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/each.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/filter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/literal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/mixin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/tag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/coffee-script/extras/coffee-script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/coffee-script/lib/browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/coffee-script/lib/cake.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/coffee-script/lib/coffee-script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/coffee-script/lib/command.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/coffee-script/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/coffee-script/lib/lexer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/coffee-script/lib/nodes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/coffee-script/lib/repl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/coffee-script/lib/rewriter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/coffee-script/lib/scope.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/functions/image.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/functions/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/functions/url.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/lexer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/middleware.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/binop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/block.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/boolean.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/call.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/charset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/each.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/expression.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/function.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/group.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/hsla.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/ident.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/if.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/import.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/keyframes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/literal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/null.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/page.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/params.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/property.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/return.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/rgba.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/root.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/selector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/string.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/ternary.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/unaryop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/nodes/unit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/renderer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/stack/frame.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/stack/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/stylus.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/jade/support/stylus/lib/visitor/evaluator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/.gitmodules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/bin/expresso" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/docs/api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/docs/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/docs/layout/foot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/docs/layout/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/lib/bar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/lib/foo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/test/assert.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/test/async.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/test/bar.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/test/foo.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/test/http.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/test/serial/async.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/expresso/test/serial/http.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/should/.gitmodules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/should/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/should/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/should/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/should/examples/runner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/should/lib/eql.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/should/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/support/should/test/should.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/test/parse.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/test/stringify.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/testing/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/express/testing/views/users.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/.gitmodules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/attributes.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/code.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/code.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/csrf.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/dynamicscript.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/each.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/each.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/extend-layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/extend.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/extend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/form.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/includes.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/includes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/includes/foot.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/includes/head.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/includes/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/includes/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/layout.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/mixins.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/mixins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/mixins/dialog.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/mixins/profile.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/model.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/nested-filters.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/pet.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/rss.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/rss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/text.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/whitespace.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/examples/whitespace.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/benchmark.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/Cakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/bin/cake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/bin/coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/aliases.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/array_comprehensions.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/block_comment.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/cake_tasks.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/classes.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/comparisons.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/conditionals.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/embedded.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/existence.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/expressions.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/expressions_assignment.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/expressions_comprehension.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/expressions_try.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/fat_arrow.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/functions.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/heredocs.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/interpolation.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/interpolation_expression.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/multiple_return_values.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/object_comprehensions.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/object_extraction.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/objects_and_arrays.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/objects_reserved.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/overview.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/parallel_assignment.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/patterns_and_splats.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/prototypes.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/range_comprehensions.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/scope.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/slices.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/soaks.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/splats.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/splices.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/strings.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/switch.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/try.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/coffee/while.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/css/docs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/css/idle.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/browser.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/cake.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/coffee-script.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/command.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/docco.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/grammar.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/helpers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/lexer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/nodes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/optparse.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/repl.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/rewriter.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/scope.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/docs/underscore.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/index.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/aliases.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/array_comprehensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/block_comment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/cake_tasks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/classes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/comparisons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/conditionals.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/embedded.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/existence.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/expressions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/expressions_assignment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/expressions_comprehension.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/expressions_try.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/fat_arrow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/heredocs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/interpolation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/interpolation_expression.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/multiple_return_values.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/object_comprehensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/object_extraction.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/objects_and_arrays.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/objects_reserved.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/overview.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/parallel_assignment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/patterns_and_splats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/prototypes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/range_comprehensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/scope.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/slices.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/soaks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/splats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/splices.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/strings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/switch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/try.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/documentation/js/while.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/beautiful_code/binary_search.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/beautiful_code/quicksort_runtime.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/beautiful_code/regular_expression_matcher.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/blocks.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/code.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/computer_science/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/computer_science/binary_search.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/computer_science/bubble_sort.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/computer_science/linked_list.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/computer_science/luhn_algorithm.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/computer_science/merge_sort.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/computer_science/selection_sort.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/poignant.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/potion.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/underscore.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/examples/web_server.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/extras/EXTRAS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/extras/jsl.conf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/lib/grammar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/lib/helpers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/lib/optparse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/lib/parser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/lib/utilities.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/browser.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/cake.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/coffee-script.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/command.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/grammar.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/helpers.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/index.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/lexer.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/nodes.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/optparse.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/repl.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/rewriter.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/src/scope.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_arguments.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_assignment.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_break.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_chaining.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_classes.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_comments.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_compilation.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_compound_assignment.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_comprehensions.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_existence.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_expressions.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_functions.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_helpers.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_heredocs.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_if.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_importing.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_literals.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_module.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_operations.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_option_parser.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_pattern_matching.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_ranges_slices_and_splices.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_regexps.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_returns.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_splats.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_strings.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_switch.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_try_catch.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/coffee-script/test/test_while.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/compile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/.gitmodules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/bin/expresso" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/docs/api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/docs/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/docs/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/docs/layout/foot.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/docs/layout/head.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/lib/bar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/lib/foo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/test/assert.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/test/async.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/test/bar.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/test/foo.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/test/http.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/test/serial/async.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/expresso/test/serial/http.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/foot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/head.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/lib/sass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/seed.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/collect.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/comment.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/comment.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/continuation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/continuation.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/literal.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/literal.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/mixin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/mixin.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/mixin.undefined.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/properties.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/properties.expand.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/properties.expand.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/properties.invalid.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/properties.nested.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/properties.nested.invalid.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/properties.nested.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/properties.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/selectors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/selectors.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/variables.alternate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/variables.alternate.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/variables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/variables.regular.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/variables.regular.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/fixtures/variables.sass" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/images/hr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/images/sprites.bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/images/sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/images/vr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/jspec.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/jspec.growl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/jspec.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/jspec.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/jspec.nodejs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/jspec.shell.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/jspec.timers.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/lib/jspec.xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/sass/spec/spec.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/.gitmodules" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/History.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/bin/stylus" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/bin/stylus-tutorial" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/bm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/bifs.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/comments.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/compare.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/conditionals.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/css-style.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/error-reporting.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/escape.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/executable.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/font-face.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/functions.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/functions.url.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/import.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/interpolation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/introspection.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/iteration.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/js.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/keyframes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/literal.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/media.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/middleware.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/mixins.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/operators.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/selectors.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/textmate.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/vargs.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/docs/variables.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/editors/Stylus.tmbundle/Syntaxes/Stylus.tmLanguage" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/editors/Stylus.tmbundle/info.plist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/arithmetic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/arithmetic.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/basic.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/builtins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/builtins.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/comments.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/comments.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/compress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/conversions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/conversions.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/functions.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/images.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/images.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/images/gopher.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/images/jesus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/images/sprite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/implicit-functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/implicit-functions.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/import.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/import.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/js-functions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/js-functions.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/literal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/literal.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/middleware.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/mixins/box.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/nesting.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/nesting.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/public/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/variables.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/examples/variables.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/lib/colors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/lib/convert/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/lib/functions/index.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/lib/stack/scope.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/lib/token.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/lib/visitor/compiler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/lib/visitor/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/arithmetic.color.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/arithmetic.color.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/arithmetic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/arithmetic.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/arithmetic.unary.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/arithmetic.unary.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.components.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.components.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.dark.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.darken-by.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.darken-by.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.image-size.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.image-size.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.join.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.join.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.last.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.last.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.length.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.length.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.light.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.light.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.lighten-by.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.lighten-by.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.lookup.complex.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.lookup.complex.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.lookup.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.lookup.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.match.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.match.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.opposite-position.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.opposite-position.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.rgba.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.rgba.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.type.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.type.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.unit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.unit.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.unquote.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.unquote.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.url.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/bifs.url.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/coercion.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/coercion.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/comments.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/comments.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/compress.units.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/compress.units.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/conditional-assignment.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/conditional-assignment.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.functions.single-line.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.functions.single-line.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.if.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.if.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.keyframes.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.keyframes.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.large.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.large.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.media.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.mixins.braces.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.mixins.braces.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.mixins.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.mixins.root.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.mixins.root.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.mixins.root.wonky.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.mixins.root.wonky.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.mixins.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.selectors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.selectors.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.whitespace.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/css.whitespace.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/escape.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/escape.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/for.complex.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/for.complex.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/for.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/for.function.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/for.function.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/for.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/function.arguments.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/function.arguments.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/function.literals.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/function.literals.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.arg-calls.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.arg-calls.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.call.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.call.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.defaults.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.defaults.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.multi-line.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.multi-line.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.multiple-calls.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.multiple-calls.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.nested-calls.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.nested-calls.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.nested.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.nested.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.property.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.property.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.return.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.return.each.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.return.each.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.return.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.variable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.variable.ident.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.variable.ident.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/functions.variable.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/if.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/if.else.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/if.else.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/if.mixin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/if.mixin.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/if.postfix.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/if.postfix.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/if.selectors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/if.selectors.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/if.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.basic.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.basic.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.basic/a.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.basic/b.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.basic/c.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.complex.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.complex.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.complex/a.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.complex/c.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.complex/nested/b.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.index.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.index/vendor/a.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.index/vendor/b.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.index/vendor/c.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.index/vendor/index.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.literal.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.literal.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.mixins.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.mixins.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.ordering.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.ordering.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.ordering/five.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.ordering/four.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/import.ordering/two.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/important.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/important.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/interpolation.properties.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/interpolation.properties.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/introspection.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/introspection.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/jquery.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/jquery.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/list.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/list.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/literal.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/literal.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/media.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixin.conditional.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixin.conditional.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixin.order.conditional.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixin.order.conditional.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixin.order.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixin.order.nested.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixin.order.nested.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixin.order.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.complex.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.complex.fix-to.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.complex.fix-to.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.complex.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.conditional.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.conditional.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.nested.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.nested.selectors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.nested.selectors.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.nested.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.order.2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.order.2.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.return.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.return.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.root.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins.root.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/mixins/box.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operator.range.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operator.range.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.assignment.function.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.assignment.function.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.assignment.mixin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.assignment.mixin.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.assignment.root.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.assignment.root.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.complex.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.complex.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.equality.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.equality.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.in.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.in.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.mixins.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.mixins.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.precedence.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.precedence.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.subscript.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.subscript.range.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.subscript.range.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/operators.subscript.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/page.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/page.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/parent.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/parent.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/properties.colons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/properties.colons.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/properties.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/properties.one-line.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/properties.one-line.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/properties.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.107.lookup-failure.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.107.lookup-failure.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.127.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.127.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.130.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.130.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.131.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.131.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.137.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.137.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.139.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.139.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.142.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.142.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.146.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.146.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.153.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.153.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.154.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.154.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.156.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/regression.156.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/rule.charset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/rule.charset.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/rulset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/rulset.newline.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/rulset.newline.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/rulset.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/scope.complex.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/scope.complex.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/scope.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/scope.nested.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/scope.nested.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/scope.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/selectors.complex.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/selectors.complex.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/selectors.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/selectors.nested.comma.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/selectors.nested.comma.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/selectors.nested.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/selectors.nested.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/selectors.pseudo.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/selectors.pseudo.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/selectors.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/self-assignment.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/self-assignment.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/vargs.call.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/vargs.call.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/vargs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/vargs.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/variable.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/variable.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/variables.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/cases/variables.styl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/images/gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/images/squirrel.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/images/tux.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/support/stylus/test/run.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/test/filters.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/test/fixtures/invalid.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/test/fixtures/layout.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/test/fixtures/scripts.jade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/test/fixtures/test.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/server/node_modules/jade/test/jade.test.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/.bin/express" afterPath="$PROJECT_DIR$/server/node_modules/.bin/express" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/.bin/jade" afterPath="$PROJECT_DIR$/server/node_modules/.bin/jade" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/.npmignore" afterPath="$PROJECT_DIR$/server/node_modules/express/.npmignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/History.md" afterPath="$PROJECT_DIR$/server/node_modules/express/History.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/LICENSE" afterPath="$PROJECT_DIR$/server/node_modules/express/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/Makefile" afterPath="$PROJECT_DIR$/server/node_modules/express/Makefile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/Readme.md" afterPath="$PROJECT_DIR$/server/node_modules/express/Readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/bin/express" afterPath="$PROJECT_DIR$/server/node_modules/express/bin/express" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/lib/router/collection.js" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/router/collection.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/lib/router/methods.js" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/router/methods.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/lib/router/route.js" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/router/route.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/lib/utils.js" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/utils.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/lib/view/partial.js" afterPath="$PROJECT_DIR$/server/node_modules/express/lib/view/partial.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/.npmignore" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/.npmignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/LICENSE" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/cache.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/cache.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/http.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/http.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/index.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/bodyParser.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/bodyParser.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/compiler.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/compiler.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/limit.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/limit.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/logger.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/logger.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/methodOverride.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/methodOverride.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/profiler.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/profiler.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/query.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/query.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/responseTime.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/responseTime.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/middleware/vhost.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/middleware/vhost.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/patch.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/patch.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/directory.html" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/directory.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/error.html" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/error.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/favicon.ico" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/favicon.ico" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_add.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_add.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_attach.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_attach.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_code.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_code.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_copy.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_copy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_delete.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_delete.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_edit.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_edit.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_error.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_error.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_excel.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_excel.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_find.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_find.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_gear.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_gear.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_go.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_go.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_green.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_green.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_key.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_key.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_lightning.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_lightning.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_link.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_link.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_paintbrush.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_paintbrush.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_paste.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_paste.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_red.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_red.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_refresh.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_refresh.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_save.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_save.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_acrobat.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_acrobat.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_actionscript.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_actionscript.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_add.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_add.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_c.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_camera.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_camera.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_cd.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_cd.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_code.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_code.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_code_red.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_code_red.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_coldfusion.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_coldfusion.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_compressed.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_compressed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_copy.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_copy.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_cplusplus.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_cplusplus.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_csharp.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_csharp.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_cup.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_cup.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_database.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_database.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_delete.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_delete.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_dvd.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_dvd.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_edit.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_edit.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_error.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_error.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_excel.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_excel.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_find.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_find.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_flash.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_flash.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_freehand.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_freehand.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_gear.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_gear.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_get.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_get.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_go.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_go.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_h.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_h.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_horizontal.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_horizontal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_key.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_key.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_lightning.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_lightning.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_link.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_link.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_magnify.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_magnify.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_medal.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_medal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_office.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_office.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_paint.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_paint.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_paintbrush.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_paintbrush.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_paste.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_paste.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_php.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_php.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_picture.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_picture.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_powerpoint.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_powerpoint.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_put.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_put.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_ruby.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_ruby.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_stack.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_stack.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_star.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_star.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_swoosh.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_swoosh.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_text.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_text.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_text_width.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_text_width.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_tux.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_tux.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_vector.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_vector.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_visualstudio.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_visualstudio.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_width.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_width.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_word.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_word.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_world.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_world.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_wrench.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_wrench.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_white_zip.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_white_zip.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_word.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_word.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/icons/page_world.png" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/icons/page_world.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/public/style.css" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/public/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/lib/utils.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/lib/utils.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/connect/package.json" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/connect/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mime/LICENSE" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mime/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mime/README.md" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mime/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mime/mime.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mime/mime.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mime/package.json" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mime/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mime/types/mime.types" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mime/types/mime.types" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mime/types/node.types" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mime/types/node.types" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mkdirp/.gitignore.orig" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/.gitignore.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mkdirp/.gitignore.rej" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/.gitignore.rej" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mkdirp/LICENSE" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mkdirp/README.markdown" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/README.markdown" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mkdirp/examples/pow.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/examples/pow.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mkdirp/examples/pow.js.orig" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/examples/pow.js.orig" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mkdirp/examples/pow.js.rej" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/examples/pow.js.rej" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mkdirp/index.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/index.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mkdirp/package.json" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mkdirp/test/mkdirp.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/test/mkdirp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mkdirp/test/race.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/test/race.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/mkdirp/test/rel.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/mkdirp/test/rel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/.gitmodules" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/.gitmodules" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/History.md" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/History.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/Makefile" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/Makefile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/Readme.md" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/Readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/benchmark.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/benchmark.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/examples.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/examples.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/lib/querystring.js" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/lib/querystring.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/node_modules/qs/package.json" afterPath="$PROJECT_DIR$/server/node_modules/express/node_modules/qs/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/express/package.json" afterPath="$PROJECT_DIR$/server/node_modules/express/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/.npmignore" afterPath="$PROJECT_DIR$/server/node_modules/jade/.npmignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/LICENSE" afterPath="$PROJECT_DIR$/server/node_modules/jade/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/bin/jade" afterPath="$PROJECT_DIR$/server/node_modules/jade/bin/jade" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/doctypes.js" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/doctypes.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/filters.js" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/filters.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/inline-tags.js" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/inline-tags.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/lexer.js" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/lexer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/nodes/node.js" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/nodes/node.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/runtime.js" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/runtime.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/self-closing.js" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/self-closing.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/lib/utils.js" afterPath="$PROJECT_DIR$/server/node_modules/jade/lib/utils.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/package.json" afterPath="$PROJECT_DIR$/server/node_modules/jade/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/runtime.js" afterPath="$PROJECT_DIR$/server/node_modules/jade/runtime.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/node_modules/jade/runtime.min.js" afterPath="$PROJECT_DIR$/server/node_modules/jade/runtime.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/index.jade" afterPath="$PROJECT_DIR$/server/views/index.jade" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/views/layout.jade" afterPath="$PROJECT_DIR$/server/views/layout.jade" />
+    </list>
+    <ignored path="node-static-server.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="node-static-server" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
+    <option name="UPDATE_CHANGES_POLICY" value="STASH" />
+    <option name="LINE_SEPARATORS_CONVERSION" value="ASK" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/server/package.json" />
+        <option value="$PROJECT_DIR$/server/views/layout.jade" />
+        <option value="$PROJECT_DIR$/server/views/index.jade" />
+        <option value="$PROJECT_DIR$/client/assets/css/style.less" />
+        <option value="$PROJECT_DIR$/server/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="26" />
+    <option name="width" value="1920" />
+    <option name="height" value="1174" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="false" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-static-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-static-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-static-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-static-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-static-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-static-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-static-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node-static-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.externalResources" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1333738756583</created>
+      <updated>1333738756583</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="26" width="1920" height="1174" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Code Outline" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15537018" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JsTestDriver Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="CREATE_PATCH_EXPAND_DETAILS_DEFAULT" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/server/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="51" selection-start="350" selection-end="350" vertical-scroll-proportion="0.1724138">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="1" selection-start="266" selection-end="266" vertical-scroll-proportion="0.15804598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/views/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="6" selection-start="40" selection-end="40" vertical-scroll-proportion="0.057471264">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="15" selection-start="31" selection-end="31" vertical-scroll-proportion="0.04310345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/assets/css/style.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="14" selection-start="23" selection-end="23" vertical-scroll-proportion="0.014367816">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

@@ -10,6 +10,6 @@
     "q": "x",
     "request": "x",
     "connect-gzip": "x",
-    "less": "git://github.com/signedon/less.js.git",
+    "less": "git://github.com/signedon/less.js.git"
   }
 }
